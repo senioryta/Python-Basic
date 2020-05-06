@@ -44,4 +44,3 @@ print(2**8) # 2 the power of 8
 width = 300
 height = 200 * 2
 print(width + height)
-
